@@ -2,7 +2,8 @@
 
 <!-- title -->
 
-<!--lint disable awesome-git-repo-age-->
+<!--lint disable remark-lint:awesome-git-repo-age-->
+
 <!--lint ignore no-dead-urls-->
 
 # Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml/badge.svg)](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml)
