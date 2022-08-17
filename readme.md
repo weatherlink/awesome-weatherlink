@@ -7,7 +7,7 @@
 
 <!-- subtitle -->
 
-A list of awesome projects and demos built using the WeatherLink APIs
+A list of awesome projects, source code, libraries, and demos built using the WeatherLink APIs.
 
 <!-- image -->
 
