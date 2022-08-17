@@ -4,22 +4,24 @@
 
 # Awesome WeatherLink [![lint](https://img.shields.io/github/workflow/status/weatherlink/awesome-weatherlink/lint?label=lint&style=flat-square)](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml)
 
-
 <!-- subtitle -->
 
 A list of awesome projects, source code, libraries, and demos built using the WeatherLink APIs.
 
 <!-- image -->
-
+<!--
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="" />
 </a>
+-->
 
 <!-- description -->
 
+<!--
 A one line description of the product or tool. See
 [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
 example.
+-->
 
 <!-- TOC -->
 
