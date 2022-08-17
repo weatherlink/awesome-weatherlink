@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
@@ -22,8 +20,6 @@ A list of awesome projects and demos built using the WeatherLink APIs
 A one line description of the product or tool. See
 [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
 example.
-
-</div>
 
 <!-- TOC -->
 
