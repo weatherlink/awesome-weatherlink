@@ -27,12 +27,16 @@ example.
 
 ## Contents
 
-- [Official Documentation](#official-documentation]
+- [Official Documentation](#official-documentation)
 - [Official Libraries](#official-libraries)
 - [Third Party Libraries](#third-party-libraries)
 - [Projects](#Projects)
 
 <!-- CONTENT -->
+
+## Official Documentation
+
+- [Apple](https://apple.com) - Apple as a placeholder.
 
 ## Official Libraries
 
