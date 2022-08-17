@@ -6,7 +6,7 @@
 
 <!-- subtitle -->
 
-A list of awesome libraries, projects, and source code built for and with the WeatherLink APIs.
+A list of awesome WeatherLink API documentation, libraries, projects, and more.
 
 <!-- image -->
 <!--
@@ -27,17 +27,22 @@ example.
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Official Documentation](#official-documentation]
+- [Official Libraries](#official-libraries)
+- [Third Party Libraries](#third-party-libraries)
+- [Projects](#Projects)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Official Libraries
 
 - [Apple](https://apple.com) - Apple as a placeholder.
 
-## Section 1
+## Third Party Libraries
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+## Projects
 
 - [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
