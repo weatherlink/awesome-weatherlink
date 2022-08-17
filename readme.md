@@ -2,11 +2,9 @@
 
 <!-- title -->
 
-<!--lint disable remark-lint:awesome-git-repo-age-->
-
 <!--lint ignore no-dead-urls-->
 
-# Awesome WeatherLink [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml/badge.svg)](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml)
+# Awesome WeatherLink [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![lint](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml/badge.svg)](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
