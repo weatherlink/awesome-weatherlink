@@ -59,6 +59,8 @@ _Libraries maintained and published by the WeatherLink engineers at Davis Instru
 
 _Applications built using the WeatherLink APIs._
 
+- [wlbot](https://github.com/mike-weiner/wlbot) - A Node.js based CLI that can be used to make some of the most common API calls that are possible with the WeatherLink v2 API.
+
 ## Demos & Examples
 
 _Small demos and examples which use the WeatherLink APIs but are not full-fledged applications._
