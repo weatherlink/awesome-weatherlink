@@ -29,13 +29,16 @@ example.
 
 - [Official Documentation](#official-documentation)
 - [Official Libraries](#official-libraries)
+- [Applications](#applications)
+- [Demos & Examples](#demos--examples)
 - [Third Party Libraries](#third-party-libraries)
-- [Applications & Projects](#applications-projects)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
 ## Official Documentation
+
+_WeatherLink API documentation._
 
 - [WeatherLink Developer Portal](https://weatherlink.github.io/) - Main landing page for all WeatherLink API and developer documentation.
 - [WeatherLink v2 API](https://weatherlink.github.io/v2-api/) - WeatherLink v2 API documentation.
@@ -46,13 +49,23 @@ example.
 
 ## Official Libraries
 
+_Libraries maintained and published by the WeatherLink engineers at Davis Instruments._
+
 - [WeatherLink v2 API SDK for Java](https://github.com/weatherlink/weatherlink-v2-api-sdk-java) - GitHub repository and information for the WeatherLink v2 API SDK for Java.
 - [WeatherLink v2 API SDK for PHP](https://github.com/weatherlink/weatherlink-v2-api-sdk-php) - GitHub repository and information for the WeatherLink v2 API SDK for PHP.
 - [WeatherLink v2 API SDK for Python](https://github.com/weatherlink/weatherlink-v2-api-sdk-python) - GitHub repository and information for the WeatherLink v2 API SDK for Python.
 
+## Applications
+
+_Applications built using the WeatherLink APIs._
+
+## Demos & Examples
+
+_Small demos and examples which use the WeatherLink APIs but are not full-fledged applications._
+
 ## Third Party Libraries
 
-## Applications & Projects
+_Libraries written by third party developers that use the WeatherLink APIs._
 
 <!-- END CONTENT -->
 
