@@ -30,7 +30,7 @@ example.
 - [Official Documentation](#official-documentation)
 - [Official Libraries](#official-libraries)
 - [Third Party Libraries](#third-party-libraries)
-- [Projects](#Projects)
+- [Projects](#projects)
 - [Follow](#follow)
 
 <!-- CONTENT -->
