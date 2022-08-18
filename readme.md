@@ -42,13 +42,13 @@ example.
 - [WeatherLink v1 API](https://www.weatherlink.com/static/docs/APIdocumentation.pdf) - WeatherLink v1 API documentation (PDF file).
 - [WeatherLink Live Local API](https://weatherlink.github.io/weatherlink-live-local-api/) - WeatherLink Live Local API documentation.
 - [AirLink Local API](https://weatherlink.github.io/airlink-local-api/) - AirLink Local API documentation.
-- [WeatherLink Real-time Data Feed](https://weatherlink.github.io/real-time-data-feed/) WeatherLink Real-time Data Feed documentation.
+- [WeatherLink Real-time Data Feed](https://weatherlink.github.io/real-time-data-feed/) - WeatherLink Real-time Data Feed documentation.
 
 ## Official Libraries
 
-- [WeatherLink v2 API SDK for Java](https://github.com/weatherlink/weatherlink-v2-api-sdk-java) - WeatherLink v2 API SDK for Java
-- [WeatherLink v2 API SDK for PHP](https://github.com/weatherlink/weatherlink-v2-api-sdk-php) - WeatherLink v2 API SDK for PHP
-- [WeatherLink v2 API SDK for Python](https://github.com/weatherlink/weatherlink-v2-api-sdk-python) - WeatherLink v2 API SDK for Python
+- [WeatherLink v2 API SDK for Java](https://github.com/weatherlink/weatherlink-v2-api-sdk-java) - WeatherLink v2 API SDK for Java.
+- [WeatherLink v2 API SDK for PHP](https://github.com/weatherlink/weatherlink-v2-api-sdk-php) - WeatherLink v2 API SDK for PHP.
+- [WeatherLink v2 API SDK for Python](https://github.com/weatherlink/weatherlink-v2-api-sdk-python) - WeatherLink v2 API SDK for Python.
 
 ## Third Party Libraries
 
