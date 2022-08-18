@@ -30,28 +30,16 @@ example.
 - [Official Documentation](#official-documentation)
 - [Official Libraries](#official-libraries)
 - [Third Party Libraries](#third-party-libraries)
-- [Projects](#projects)
-- [Follow](#follow)
-
-- [Official](#official)
-  - [Libraries](#official-libraries)
-- [Third Party](#third-party)
-  - [Libraries](#third-party-libraries)
-- [Projects](#projects)
+- [Applications & Projects](#applications-projects)
 - [Follow](#follow)
 
 <!-- CONTENT -->
-
-## Official
-
-### Libraries
-
 
 ## Official Documentation
 
 - [WeatherLink Developer Portal](https://weatherlink.github.io/) - Main landing page for all WeatherLink API and developer documentation.
 - [WeatherLink v2 API](https://weatherlink.github.io/v2-api/) - WeatherLink v2 API documentation.
-  - [WeatherLink v1 API](https://www.weatherlink.com/static/docs/APIdocumentation.pdf) - WeatherLink v1 API documentation (PDF file).
+- [WeatherLink v1 API](https://www.weatherlink.com/static/docs/APIdocumentation.pdf) - WeatherLink v1 API documentation (PDF file).
 - [WeatherLink Live Local API](https://weatherlink.github.io/weatherlink-live-local-api/) - WeatherLink Live Local API documentation.
 - [AirLink Local API](https://weatherlink.github.io/airlink-local-api/) - AirLink Local API documentation.
 - [WeatherLink Real-time Data Feed](https://weatherlink.github.io/real-time-data-feed/) - WeatherLink Real-time Data Feed documentation.
@@ -64,7 +52,7 @@ example.
 
 ## Third Party Libraries
 
-## Projects
+## Applications & Projects
 
 <!-- END CONTENT -->
 
