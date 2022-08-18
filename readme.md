@@ -29,7 +29,7 @@ example.
 
 - [Official Documentation](#official-documentation)
 - [Official Libraries](#official-libraries)
-- [Applications](#applications)
+- [Applications & Tools](#applications--tools)
 - [Demos & Examples](#demos--examples)
 - [Third Party Libraries](#third-party-libraries)
 <!--- [Follow](#follow)-->
@@ -55,15 +55,15 @@ _Libraries maintained and published by the WeatherLink engineers at Davis Instru
 - [WeatherLink v2 API SDK for PHP](https://github.com/weatherlink/weatherlink-v2-api-sdk-php) - GitHub repository and information for the WeatherLink v2 API SDK for PHP.
 - [WeatherLink v2 API SDK for Python](https://github.com/weatherlink/weatherlink-v2-api-sdk-python) - GitHub repository and information for the WeatherLink v2 API SDK for Python.
 
-## Applications
+## Applications & Tools
 
-_Applications built using the WeatherLink APIs._
+_Applications and tools built using the WeatherLink APIs._
 
 - [wlbot](https://github.com/mike-weiner/wlbot) - A Node.js based CLI that can be used to make some of the most common API calls that are possible with the WeatherLink v2 API.
 
 ## Demos & Examples
 
-_Small demos and examples which use the WeatherLink APIs but are not full-fledged applications._
+_Small demos and examples which use the WeatherLink APIs but are not full-fledged applications or tools._
 
 ## Third Party Libraries
 
