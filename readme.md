@@ -46,9 +46,9 @@ example.
 
 ## Official Libraries
 
-- [WeatherLink v2 API SDK for Java](https://github.com/weatherlink/weatherlink-v2-api-sdk-java) - WeatherLink v2 API SDK for Java.
-- [WeatherLink v2 API SDK for PHP](https://github.com/weatherlink/weatherlink-v2-api-sdk-php) - WeatherLink v2 API SDK for PHP.
-- [WeatherLink v2 API SDK for Python](https://github.com/weatherlink/weatherlink-v2-api-sdk-python) - WeatherLink v2 API SDK for Python.
+- [WeatherLink v2 API SDK for Java](https://github.com/weatherlink/weatherlink-v2-api-sdk-java) - GitHub repository and information for the WeatherLink v2 API SDK for Java.
+- [WeatherLink v2 API SDK for PHP](https://github.com/weatherlink/weatherlink-v2-api-sdk-php) - GitHub repository and information for the WeatherLink v2 API SDK for PHP.
+- [WeatherLink v2 API SDK for Python](https://github.com/weatherlink/weatherlink-v2-api-sdk-python) - GitHub repository and information for the WeatherLink v2 API SDK for Python.
 
 ## Third Party Libraries
 
