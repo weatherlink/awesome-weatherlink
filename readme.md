@@ -32,7 +32,7 @@ example.
 - [Applications](#applications)
 - [Demos & Examples](#demos--examples)
 - [Third Party Libraries](#third-party-libraries)
-- [Follow](#follow)
+<!--- [Follow](#follow)-->
 
 <!-- CONTENT -->
 
@@ -69,11 +69,13 @@ _Libraries written by third party developers that use the WeatherLink APIs._
 
 <!-- END CONTENT -->
 
+<!--
 ## Follow
+-->
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-Who else should we be following!?
+<!--Who else should we be following!?-->
 
 ## Contributing
 
