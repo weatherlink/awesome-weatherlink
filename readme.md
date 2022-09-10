@@ -66,7 +66,7 @@ _Applications and tools built using the WeatherLink APIs._
 _Small demos and examples which use the WeatherLink APIs but are not full-fledged applications or tools._
 
 - [kenyonwx](https://github.com/mike-weiner/kenyonwx) - A Node.js based web app to display user desired weather data from a WeatherLink connected weather station.
-- [Template WeatherLink API Script (Python)](https://gist.github.com/mike-weiner/3ea4654ccfec57234c0520e773f78225) - A Python script to serve as a template for WeatherLink Live API calls.
+- [Template WeatherLink API Script (Python)](https://gist.github.com/mike-weiner/3ea4654ccfec57234c0520e773f78225) - A Python script to serve as a template for WeatherLink API calls.
 
 ## Third Party Libraries
 
