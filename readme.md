@@ -2,7 +2,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome WeatherLink [![lint](https://img.shields.io/github/workflow/status/weatherlink/awesome-weatherlink/lint?label=lint&style=flat-square)](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml)
+# Awesome WeatherLink <!--[![lint](https://img.shields.io/github/workflow/status/weatherlink/awesome-weatherlink/lint?label=lint&style=flat-square)](https://github.com/weatherlink/awesome-weatherlink/actions/workflows/lint.yaml)-->
 
 <!-- subtitle -->
 
