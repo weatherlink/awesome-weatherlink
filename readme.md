@@ -28,7 +28,6 @@ example.
 ## Contents
 
 - [Official Documentation](#official-documentation)
-- [Official Libraries](#official-libraries)
 - [Applications & Tools](#applications--tools)
 - [Demos & Examples](#demos--examples)
 - [Third Party Libraries](#third-party-libraries)
@@ -46,14 +45,6 @@ _WeatherLink API documentation._
 - [WeatherLink Live Local API](https://weatherlink.github.io/weatherlink-live-local-api/) - WeatherLink Live Local API documentation.
 - [AirLink Local API](https://weatherlink.github.io/airlink-local-api/) - AirLink Local API documentation.
 - [WeatherLink Real-time Data Feed](https://weatherlink.github.io/real-time-data-feed/) - WeatherLink Real-time Data Feed documentation.
-
-## Official Libraries
-
-_Libraries maintained and published by the WeatherLink engineers at Davis Instruments._
-
-- [WeatherLink v2 API SDK for Java](https://github.com/weatherlink/weatherlink-v2-api-sdk-java) - GitHub repository and information for the WeatherLink v2 API SDK for Java.
-- [WeatherLink v2 API SDK for PHP](https://github.com/weatherlink/weatherlink-v2-api-sdk-php) - GitHub repository and information for the WeatherLink v2 API SDK for PHP.
-- [WeatherLink v2 API SDK for Python](https://github.com/weatherlink/weatherlink-v2-api-sdk-python) - GitHub repository and information for the WeatherLink v2 API SDK for Python.
 
 ## Applications & Tools
 
