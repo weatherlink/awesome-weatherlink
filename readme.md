@@ -51,6 +51,7 @@ _WeatherLink API documentation._
 _Applications and tools built using the WeatherLink APIs._
 
 - [wlbot](https://github.com/mike-weiner/wlbot) - A Node.js based CLI that can be used to make some of the most common API calls that are possible with the WeatherLink v2 API.
+- [wxtrmnl](https://github.com/mike-weiner/wxtrmnl) - A project to display WeatherLink data on a TRMNL E-ink dashboard.
 
 ## Demos & Examples
 
