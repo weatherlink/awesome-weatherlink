@@ -52,6 +52,7 @@ _Applications and tools built using the WeatherLink APIs._
 
 - [wlbot](https://github.com/mike-weiner/wlbot) - A Node.js based CLI that can be used to make some of the most common API calls that are possible with the WeatherLink v2 API.
 - [wxtrmnl](https://github.com/mike-weiner/wxtrmnl) - A project to display WeatherLink data on a TRMNL E-ink dashboard.
+- [Cloud Studio IoT](https://cloudstudioiot.com/integrations/davis-weatherlink) - IoT platform that reads current conditions from WeatherLink stations through the v2 API and shows them in dashboards, alerts and reports alongside other sensors.
 
 ## Demos & Examples
 
